@@ -1,9 +1,5 @@
 # Project 2 : Basic Computer Assembler
 
-Welcome to Project 2 of CSE311 Computer Organization!
-
-In this project, you will be building a very simple assembler for the Basic Computer Instruction Set Architecture as per M.Mano's book "Computer System Architecture" [1].
-
 The Basic Computer has a 16-bit instruction divided into 12-bit address, 3-bit opcode and 1-bit for addressing mode.
 
 The Basic Computer's ISA supports 25 instructions categorized as following:
